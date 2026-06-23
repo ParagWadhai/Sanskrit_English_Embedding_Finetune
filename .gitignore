@@ -1,0 +1,8 @@
+sanskrit_embedding_model/
+*.safetensors
+*.bin
+*.pt
+*.pth
+.ipynb_checkpoints/
+__pycache__/
+.cache/
